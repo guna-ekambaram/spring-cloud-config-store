@@ -3,4 +3,4 @@ spring:
     url: jdbc:mysql://localhost:3306/rent?createDatabaseIfNotExist=true
     username: root
     password: 1Qazwe2#45
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
